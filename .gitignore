@@ -1,0 +1,6 @@
+*.log
+*.rar
+*.class
+/pruebas
+*privado*
+/assets/imagenes/nomostrar
